@@ -1,0 +1,2 @@
+# Factory-to-Customer-Shipping-Route-Efficiency-Analysis-
+This project establishes a clear, data-driven understanding of shipping route efficiency for Nassau Candy Distributor. By transforming raw order and shipment data into route-level operational intelligence, the organization gains actionable insights to improve logistics performance, reduce delays, and enhance nationwide delivery reliability.
